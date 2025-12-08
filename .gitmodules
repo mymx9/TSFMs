@@ -1,0 +1,9 @@
+[submodule "src/uni2ts"]
+	path = src/uni2ts
+	url = https://github.com/SalesforceAIResearch/uni2ts.git
+[submodule "src/timesfm"]
+	path = src/timesfm
+	url = https://github.com/google-research/timesfm.git
+[submodule "src/chronos-forecasting"]
+	path = src/chronos-forecasting
+	url = https://github.com/amazon-science/chronos-forecasting.git
